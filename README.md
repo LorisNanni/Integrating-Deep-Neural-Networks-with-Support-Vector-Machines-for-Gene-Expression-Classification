@@ -8,5 +8,6 @@ The Breast_Cancer dataset refers to the TCGA dataset.
 
 % code/toolbox
 LibSVM is avaialble at: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
-CodeEnsembleKAN.rar stores the code for BaseKAN, FourierKAN, EfficientKAN
+CodeEnsembleKAN.zip stores the code for BaseKAN, FourierKAN, EfficientKAN
+Tool1.zip stores the code of the other approaches and the feature selection methods
 
