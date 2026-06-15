@@ -15,7 +15,7 @@ This repository contains code and tools for pan-cancer data classification using
 
 - `data/` - Raw, processed, and split datasets.
   - `processed` - _Place here .csv files from [zenodo.org/records/17993056](https://zenodo.org/records/17993056)_
-  - `splits` - Per detaset predefined splits in .txt and .npy format
+  - `splits` - Per-dataset predefined splits in .txt and .npy format
 - `py/` – Python codebase and experiments.
   - `ensemble/` – Reusable code and runners for main methods.
     - `models/` – Model implementations: Autoencoder, BaseKAN, CNN-1D, CNN, EfficientKAN, FourierKAN, HybridKAN, MLP, ViT.
