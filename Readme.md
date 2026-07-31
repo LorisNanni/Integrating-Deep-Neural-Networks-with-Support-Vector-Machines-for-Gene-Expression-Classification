@@ -1,7 +1,9 @@
 # Integrating Deep Neural Networks with Support Vector Machines for Gene Expression Classification
 
 both datasets and split training/test sets are available at: https://zenodo.org/records/17993056
-code/toolbox LibSVM is avaialble at: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+code/toolbox LibSVM is available at: https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+
+The data folder also contains the GSE86374.rar archive, which includes the dataset GSE86374 used for the cross-study validation experiments. Please refer to the paper for further details.
 
 This repository contains code and tools for pan-cancer data classification using deep learning architectures, SVM, and feature selection techniques. It includes preprocessing pipelines, channel expansion, neural network models, model comparison, and results analysis.
 
